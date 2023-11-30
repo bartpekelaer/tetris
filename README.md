@@ -1,2 +1,2 @@
-# block-breaker
-Block Breaker Game
+# Tetris
+Tetris Game
